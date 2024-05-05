@@ -1,0 +1,13 @@
+ITEM  - NAME - PRICE
+10020 - ROYZ - 799
+45889 - Dey's- 659
+22341 - Ajio - 999     
+54670 - Joy  - 369
+21324 - Ayush -989
+76580 - Ayur - 499
+98076 - Boom - 765
+34526 - Mamma -987
+90875 - Adidas -989
+21342 - Alies -569
+21324 - Wow -  987
+90890 - Booce - 659

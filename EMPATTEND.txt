@@ -1,0 +1,31 @@
+EMPID NAME              DEPT
+12    Anuj kr           store incharge   
+23    Sultan            counter
+65    Priya Joshi       counter
+233   Ananya Roy        biller
+357   Avik              biller
+135   Abir Dutta        stock checker
+68    Jiban Roy         stock checker
+741   Sonali Bose       hygiene
+6471  Brithi Sur        biller
+3820  Jogita Manna      stock checker
+646   Riddhi M          counter
+3453  Sukanya Dutta     accountant
+6321  Agniva Chatterje  accountant
+841   Mukti Mishra      store head
+909   Chandan Sen       stock check-head
+901   Chandan Seikh     buiding manager(fire/electricity)
+902   Senjuti Mukherjee general manager
+903   Anrup kr          security head
+904   Arun              security back gate
+905   Tarun             security back gate
+906   Anupam Pa         security front gate
+907   Shubham           security front gate
+908   Kishore kr        cctv room
+9010  Sushmita          cctv room
+6904  Anju Dutta        grnd/store flr manager
+3465  Karina            1st flr manager
+435   Dolly             2nd flr manager
+123   karun Pal         store incharge
+ 
+12332  sohom   executive
